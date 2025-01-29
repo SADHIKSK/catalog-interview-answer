@@ -1,0 +1,2 @@
+out ut for test case 1:c=3
+output for testcase 2:c=10
